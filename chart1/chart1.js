@@ -5,6 +5,7 @@ var code = [];
 
 
 $( document ).ready(function() {
+    loadData
     generateChart()
     generateBarChart()
     generateLineChart()
